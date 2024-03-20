@@ -5,9 +5,9 @@ Me chamo Arthur Silveira Trettel e sou Profissional de Tecnologia da Informaçã
 <div></div>ﾠ
 <div  display: flex;
     justify-content: center;">
-    <img loading="lazy" src="https://github.com/TrettelNzW/TrettelNzW/assets/127143387/2853b929-6628-4700-8ad1-036030a690c2" width="295" height="235" style="margin: auto;"/>
-    <img loading="lazy" src="https://github.com/TrettelNzW/TrettelNzW/assets/127143387/1f9d3b77-aaf5-45d5-bd6f-a5030509ef6f" width="295" height="235" style="margin: auto;"/>
-    <img loading="lazy" src="https://github.com/TrettelNzW/TrettelNzW/assets/127143387/1cdb9cc6-4251-4263-8286-b1026c92c728" width="255" height="235" style="margin: auto;"/>
+    <img loading="lazy" src="https://github.com/TrettelNzW/TrettelNzW/assets/127143387/2853b929-6628-4700-8ad1-036030a690c2" width="290" height="230" style="margin: auto;"/>
+    <img loading="lazy" src="https://github.com/TrettelNzW/TrettelNzW/assets/127143387/1f9d3b77-aaf5-45d5-bd6f-a5030509ef6f" width="290" height="230" style="margin: auto;"/>
+    <img loading="lazy" src="https://github.com/TrettelNzW/TrettelNzW/assets/127143387/1cdb9cc6-4251-4263-8286-b1026c92c728" width="250" height="230" style="margin: auto;"/>
   <div></div>
     
 ℹ️ **Sobre mim:**
