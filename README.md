@@ -2,11 +2,13 @@
 
 Me chamo Arthur Silveira Trettel e sou Profissional de Tecnologia da Informação, aprendendo sobre Desenvolvimento, Programação, Dados, Nuvem, Arquitetura e Segurança da Informação. **Bem-vindo ao meu perfil do GitHub!**🌟
 
-<div></div>
-<div style="text-align: middle;">
-    <img loading="lazy" src="https://github.com/TrettelNzW/TrettelNzW/assets/127143387/2853b929-6628-4700-8ad1-036030a690c2" width="380" height="300" style="margin: auto;"/>
-    <img loading="lazy" src="https://github.com/TrettelNzW/TrettelNzW/assets/127143387/1cdb9cc6-4251-4263-8286-b1026c92c728" width="322" height="300" style="margin: auto;"/>
-  
+<div></div>ﾠ
+<div  display: flex;
+    justify-content: center;">
+    <img loading="lazy" src="https://github.com/TrettelNzW/TrettelNzW/assets/127143387/2853b929-6628-4700-8ad1-036030a690c2" width="320" height="260" style="margin: auto;"/>
+    <img loading="lazy" src="https://github.com/TrettelNzW/TrettelNzW/assets/127143387/1cdb9cc6-4251-4263-8286-b1026c92c728" width="280" height="260" style="margin: auto;"/>
+  <div></div>
+    
 ℹ️ **Sobre mim:**
 - 🖥️ Neste momento, estou focado em trabalhos que utilizem da melhor forma as ferramentas do Office e Power Platform. Desde automatizações mais simples até soluções mais complexas, atualmente, a minha experiência tem sido utilizada para criar experiências de usuário intuitivas e eficientes. Sempre questiono os limites dessas plataformas para encontrar maneiras cada vez mais inovadoras de otimizar processos e impulsionar a produtividade. A paixão de desenvolver experiências que efetivamente resolvam problemas é o que impulsiona toda aplicação.
 
@@ -14,6 +16,7 @@ Me chamo Arthur Silveira Trettel e sou Profissional de Tecnologia da Informaçã
  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/1862px-Microsoft_365_%282022%29.svg.png" width="65" height="70"/> <img loading="lazy" src="https://cdn.afterdawn.fi/v3/news/original/microsoft-office-logo-2019.png" width="70" height="70"/> <img loading="lazy" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" width="70" height="70"/> <img loading="lazy" src="https://seeklogo.com/images/M/microsoft-power-platform-logo-4E514E7575-seeklogo.com.png" width="70" height="70"/> <img loading="lazy" src="https://store-images.s-microsoft.com/image/apps.47429.13795821674373682.42a749e2-3ed9-43c6-88ec-0045278b4e49.44c95864-02a2-4f02-b16e-5b92d03974a1?h=464" width="70" height="70"/> <img loading="lazy" src="https://smartbridge.com/wp-content/uploads/PowerAutomate-2020-icon-1024x1024-1-300x300.png" width="70" height="70"/> 
 <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="70" height="70"/>
 <div>
+    
 - 🧠 Estou continuamente imerso em aprendizado, explorando tecnologias e aprimorando minhas habilidades. Minha busca incansável por conhecimento é impulsionada pela curiosidade e pelo desejo de me manter atualizado nas tendências e inovações no mundo da tecnologia.
 
 <div></div>‎
