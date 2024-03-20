@@ -39,8 +39,8 @@ Me chamo Arthur Silveira Trettel e sou Profissional de Tecnologia da Informaçã
 
 <div>
 <a href="https://github.com/TrettelNzW">
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrettelNzW&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=TrettelNzW&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrettelNzW&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=TrettelNzW&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ![Snake animation](https://github.com/TrettelNzW/TrettelNzW/blob/output/github-contribution-grid-snake.svg)
