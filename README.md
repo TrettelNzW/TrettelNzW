@@ -1,11 +1,12 @@
-### Saudações, aventureiro!👋⚔️
+
+3### Saudações, aventureiro!👋⚔️
 
 Me chamo Arthur Silveira Trettel e sou Profissional de Tecnologia da Informação, aprendendo sobre Desenvolvimento, Programação, Dados, Nuvem, Arquitetura e Segurança da Informação. **Bem-vindo ao meu perfil do GitHub!**🌟
 
 <div></div>ﾠ
 <div  display: flex;
     justify-content: center;">
-    <img loading="lazy" src="https://github.com/TrettelNzW/TrettelNzW/assets/127143387/2853b929-6628-4700-8ad1-036030a690c2" width="290" height="230" style="margin: auto;"/>
+    <img loading="lazy" src="https://github.com/TrettelNzW/TrettelNzW/assets/127143387/7b878333-8da3-4af9-8066-377e83b45075" width="290" height="230" style="margin: auto;"/>
     <img loading="lazy" src="https://github.com/TrettelNzW/TrettelNzW/assets/127143387/5d091a79-be41-4b9c-aaa2-cd0dcd2463f0" width="290" height="230" style="margin: auto;"/>
     <img loading="lazy" src="https://github.com/TrettelNzW/TrettelNzW/assets/127143387/1cdb9cc6-4251-4263-8286-b1026c92c728" width="250" height="230" style="margin: auto;"/>
   <div></div>
