@@ -1,7 +1,6 @@
+### Saudações, aventureiro!👋⚔️
 
-3### Saudações, aventureiro!👋⚔️
-
-Me chamo Arthur Silveira Trettel e sou Profissional de Tecnologia da Informação, aprendendo sobre Desenvolvimento, Programação, Dados, Nuvem, Arquitetura e Segurança da Informação. **Bem-vindo ao meu perfil do GitHub!**🌟
+Me chamo Arthur Silveira Trettel e sou Profissional de Tecnologia da Informação, aprendendo sobre Desenvolvimento, Programação, Inteligência artificial, Dados, Nuvem, Arquitetura e Segurança da Informação. **Bem-vindo ao meu perfil do GitHub!**🌟
 
 <div></div>ﾠ
 <div  display: flex;
@@ -32,17 +31,17 @@ Me chamo Arthur Silveira Trettel e sou Profissional de Tecnologia da Informaçã
 <a href="https://instagram.com/arthur_tre" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/TrettelNzW" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "arthur.trettel987@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/arthur-silveira-trettel/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/arthur-silveira-trettel/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://wa.me/15991455370" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </div>
 
 - 🔍 Desde criança, sou fascinado por tecnologia e seu impacto no mundo. Estou constantemente aprendendo e explorando novas habilidades.
  
 🚀 Sinta-se à vontade para explorar meus repositórios e entrar em contato!🚀
 
-<div>
 <a href="https://github.com/TrettelNzW">
-<img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrettelNzW&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=TrettelNzW&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrettelNzW&layout=compact&theme=dracula"/>
+<img loading="lazy" height="163em" src="https://github-readme-stats.vercel.app/api?username=TrettelNzW&show_icons=true&theme=dracula"/>
 </div>
 
 ![Snake animation](https://github.com/TrettelNzW/TrettelNzW/blob/output/github-contribution-grid-snake.svg)
