@@ -1,6 +1,6 @@
 ### Saudações, aventureiro!👋⚔️
 
-Me chamo Arthur Silveira Trettel e sou Profissional de Tecnologia da Informação, aprendendo sobre Desenvolvimento, Programação, Inteligência artificial, Dados, Nuvem, Arquitetura e Segurança da Informação. **Bem-vindo ao meu perfil do GitHub!**🌟
+Me chamo Arthur Silveira Trettel e sou Profissional de Tecnologia da Informação, aprendendo sobre Desenvolvimento, Programação, Inteligência artificial, Dados, Nuvem, Arquitetura e Segurança da Informação. **Bem-vindo ao meu perfil do GitHub!** 🌟
 
 <div></div>ﾠ
 <div  display: flex;
